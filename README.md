@@ -1,6 +1,5 @@
 ### Hi there 👋 I am Karthik Mahendra
 
-Good at 
 Electronics | Verilog | Python | C++ | Raspberry Pi | Arduino | Linux
 ---         | ---     | ---    | --- | ---          | ---     | ---  
 
