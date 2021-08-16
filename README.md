@@ -8,7 +8,7 @@ Electronics | Verilog | Python | C++ | Raspberry Pi | Arduino | Linux
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikarthikmb)](https://git.io/streak-stats)-->
 [![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikarthikmb)](https://github.com/ikarthikmb/github-readme-stats)
 
-![electron](https://raw.githubusercontent.com/Ikarthikmb/ikarthikmb/main/media/electron_rand01.GIF)
+![electron](https://raw.githubusercontent.com/Ikarthikmb/ikarthikmb/main/media/hello_awesome.gif)
 
 
 
