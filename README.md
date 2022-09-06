@@ -27,12 +27,15 @@ Here are some ideas to get you started:
 
 </p>
 
+Roadmap to the github's workspace
 
 **[Projects]**
 
-* [Different methods to generate clock signal in verilog](https://github.com/Ikarthikmb/VerilogClocks) [August 2021]
+* [Different methods to generate clock signal in verilog](https://github.com/Ikarthikmb/VerilogClocks) [August 2022]
 * [Python-based Verification of Asynchronous FIFO in Vyoma’s Up Tick Pro
-  Platform](https://github.com/vyomasystems-lab/challenges-Ikarthikmb/tree/master/level3_design) [July 2021]
+  Platform](https://github.com/vyomasystems-lab/challenges-Ikarthikmb/tree/master/level3_design) [July 2022]
+* [Google-Skywater Shuttle: GDS II Generation of I2C Inter-Integrated Circuit Protocol with
+  OpenLane](https://github.com/Ikarthikmb/i2c_ctrl2202) [February 2022]
 * [Implementation of a CMOS 3-bit Wallace Tree Multiplier using SKY130 PDK with
   eSim](https://ikarthikmb.github.io/wallace-tree/). [July 2021]
 * [House Sale Price Prediction using Linear Regression](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Project2.ipynb)[2019]
@@ -80,7 +83,9 @@ Here are some ideas to get you started:
 
 **[Hackathon]**
 
-* [Hackathon](https://github.com/vyomasystems-lab/challenges-Ikarthikmb)
+* [NIELIT, IITM Verification Hackathon](https://github.com/vyomasystems-lab/challenges-Ikarthikmb) [August 2022]
+    * A verification hackathon where participants are supposed to identify bugs in the given three design and report
+      them. It also includes level-3 where a candidate has to submit his own opensource design, then verify it.
 
 
 
