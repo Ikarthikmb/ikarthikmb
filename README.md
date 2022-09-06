@@ -30,7 +30,11 @@ Here are some ideas to get you started:
 
 **[Projects]**
 
-* [Implementation of a CMOS 3-bit Wallace Tree Multiplier using SKY130 PDK with eSim](https://ikarthikmb.github.io/wallace-tree/). [2021]
+* [Different methods to generate clock signal in verilog](https://github.com/Ikarthikmb/VerilogClocks) [August 2021]
+* [Python-based Verification of Asynchronous FIFO in Vyoma’s Up Tick Pro
+  Platform](https://github.com/vyomasystems-lab/challenges-Ikarthikmb/tree/master/level3_design) [July 2021]
+* [Implementation of a CMOS 3-bit Wallace Tree Multiplier using SKY130 PDK with
+  eSim](https://ikarthikmb.github.io/wallace-tree/). [July 2021]
 * [House Sale Price Prediction using Linear Regression](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Project2.ipynb)[2019]
 
 **[Schematics]**
@@ -58,7 +62,6 @@ Here are some ideas to get you started:
 
 
 **[Notebooks]**
-
 * [Beginner to Intermediate Programming in Python](https://github.com/Ikarthikmb/Python-Programming)
 * [Machine Learning Notebook](https://github.com/Ikarthikmb/Machine-Learning-Notebook)[2019]
 
@@ -75,6 +78,9 @@ Here are some ideas to get you started:
 * A custom html profile website. [website](https://ikarthikmb.github.io/home-page/) | [code](https://github.com/Ikarthikmb/home-page)[2020]
 * [Karthik's Blog](https://ikarthikmb.github.io/)[2021]
 
+**[Hackathon]**
+
+* [Hackathon](https://github.com/vyomasystems-lab/challenges-Ikarthikmb)
 
 
 
