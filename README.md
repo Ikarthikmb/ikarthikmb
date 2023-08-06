@@ -98,7 +98,9 @@ src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo
 href="https://twitter.com/qrthik" target="_blank"><img alt="Twitter" 
 src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue" /></a> <a 
 href="https://www.linkedin.com/in/karthik-mb" target="_blank"><img alt="LinkedIn" 
-src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <br>
+src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a
+href="https://hdlbits.01xz.net/wiki/Special:VlgStats/94686AE808000EB" target="_blank"><img alt="HDLBits" 
+src="https://hdlbits.01xz.net/images/logo270.png" width=90 height=30 /></a> <br>
 
  
  <!--
