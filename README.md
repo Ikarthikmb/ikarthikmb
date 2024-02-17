@@ -42,10 +42,6 @@ Roadmap to the github's workspace
   eSim](https://ikarthikmb.github.io/wallace-tree/). [July 2021]
 * [House Sale Price Prediction using Linear Regression](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Project2.ipynb)[2019]
 
-**[Workshops]**
-
-* [Breathing Life Back into TI-83 Calculators Through Soldering](https://ikarthikmb.github.io/posts/2023/10/27/ti83-soldering-project-pnw-ieee.html) [October 2023]
-
 
 **[Schematics]**
 
@@ -94,6 +90,10 @@ Roadmap to the github's workspace
     * A verification hackathon where participants are supposed to identify bugs in the given three design and report
       them. It also includes level-3 where a candidate has to submit his own opensource design, then verify it.
 
+
+**[Workshops]**
+
+* [Breathing Life Back into TI-83 Calculators Through Soldering](https://ikarthikmb.github.io/posts/2023/10/27/ti83-soldering-project-pnw-ieee.html) [October 2023]
 
 
 
