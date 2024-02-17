@@ -91,6 +91,7 @@ Roadmap to the github's workspace
       them. It also includes level-3 where a candidate has to submit his own opensource design, then verify it.
 
 * [Circuit Design and Simulation Marathon using eSim](https://github.com/Ikarthikmb/wallace-tree?tab=readme-ov-file) [July 2021]
+	* Was awarded “outstanding” (top 10) in 600+ submissions 
 
 **[Workshops]**
 
