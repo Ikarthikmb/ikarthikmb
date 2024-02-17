@@ -31,6 +31,8 @@ Roadmap to the github's workspace
 
 **[Projects]**
 
+* [IP Geolocation using Traceroute and IP Interpolation] (https://github.com/Ikarthikmb/ip-geolocation-2023/blob/main/ECE463_547_Final_Report_Geolocation.pdf) [November 2023]
+* [Verilog Design and Verification of AI-powered Solar Panel Monitor](https://github.com/Ikarthikmb/ai_solar_panel_monitor) [November 2023]
 * [Different methods to generate clock signal in verilog](https://github.com/Ikarthikmb/VerilogClocks) [August 2022]
 * [Python-based Verification of Asynchronous FIFO in Vyoma’s Up Tick Pro
   Platform](https://github.com/vyomasystems-lab/challenges-Ikarthikmb/tree/master/level3_design) [July 2022]
