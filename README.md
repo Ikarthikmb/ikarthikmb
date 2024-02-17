@@ -84,12 +84,13 @@ Roadmap to the github's workspace
 * A custom html profile website. [website](https://ikarthikmb.github.io/home-page/) | [code](https://github.com/Ikarthikmb/home-page)[2020]
 * [Karthik's Blog](https://ikarthikmb.github.io/)[2021]
 
-**[Hackathon]**
+**[Hackathons]**
 
 * [NIELIT, IITM Verification Hackathon](https://github.com/vyomasystems-lab/challenges-Ikarthikmb) [August 2022]
     * A verification hackathon where participants are supposed to identify bugs in the given three design and report
       them. It also includes level-3 where a candidate has to submit his own opensource design, then verify it.
 
+* [Circuit Design and Simulation Marathon using eSim](https://github.com/Ikarthikmb/wallace-tree?tab=readme-ov-file) [July 2021]
 
 **[Workshops]**
 
