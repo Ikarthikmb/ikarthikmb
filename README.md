@@ -75,8 +75,8 @@ Roadmap to the github's workspace
 **[Articles]**
 
 * [Open Source Tools to Get Started With Verilog Simulation](https://github.com/Ikarthikmb/VerilogFod)[2021]
-* [CustomSiriShortcuts](https://ikarthikmb.github.io/CustomSiriShortcuts/)[2021]
-* [xMind-Memory-maps](https://ikarthikmb.github.io/Memory_Maps-xMind/)[2020]
+* [Make your Own Siri Shortcuts with Blocks](https://ikarthikmb.github.io/CustomSiriShortcuts/)[2021]
+* [Memory Maps creation using XMind](https://memory-maps-using-xmind.netlify.app/)[2020]
 
 
 **[Misc]**
