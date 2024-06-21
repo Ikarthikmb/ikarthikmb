@@ -39,7 +39,7 @@ Roadmap to the github's workspace
   OpenLane](https://github.com/Ikarthikmb/i2c_ctrl2202) [February 2022]
 * [Implementation of a CMOS 3-bit Wallace Tree Multiplier using SKY130 PDK with
   eSim](https://ikarthikmb.github.io/wallace-tree/). [July 2021]
-* [more projects...](https://ikarthikmb.github.io/rtl_designs/)
+* More ... ([A Journey into RTL Desgin](https://ikarthikmb.github.io/rtl_designs/))
 
 **[Schematics]**
 
