@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 
 Roadmap to the github's workspace
 
-**[Projects]**
+**[RTL Design and Verification Projects]**
 
-* [IP Geolocation using Traceroute and IP Interpolation](https://github.com/Ikarthikmb/ip-geolocation-2023/blob/main/ECE463_547_Final_Report_Geolocation.pdf) [November 2023]
 * [Verilog Design and Verification of AI-powered Solar Panel Monitor](https://github.com/Ikarthikmb/ai_solar_panel_monitor) [November 2023]
 * [Different methods to generate clock signal in verilog](https://github.com/Ikarthikmb/VerilogClocks) [August 2022]
 * [Python-based Verification of Asynchronous FIFO in Vyoma’s Up Tick Pro
@@ -40,8 +39,7 @@ Roadmap to the github's workspace
   OpenLane](https://github.com/Ikarthikmb/i2c_ctrl2202) [February 2022]
 * [Implementation of a CMOS 3-bit Wallace Tree Multiplier using SKY130 PDK with
   eSim](https://ikarthikmb.github.io/wallace-tree/). [July 2021]
-* [House Sale Price Prediction using Linear Regression](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Project2.ipynb)[2019]
-
+* [more projects...](https://ikarthikmb.github.io/rtl_designs/)
 
 **[Schematics]**
 
@@ -66,6 +64,10 @@ Roadmap to the github's workspace
 * [Making a Server Access Point with NodeMCU, commecting it to the Wi-Fi](https://github.com/Ikarthikmb/Hardware-Programming/tree/master/Arduino-repo#getting-started-with-arduino)
 * [Creating a Server using NodeMCU](https://github.com/Ikarthikmb/Hardware-Programming/tree/master/Arduino-repo#getting-started-with-arduino)[2020]
 
+
+**[Projects]**
+* [IP Geolocation using Traceroute and IP Interpolation](https://github.com/Ikarthikmb/ip-geolocation-2023/blob/main/ECE463_547_Final_Report_Geolocation.pdf) [November 2023]
+* [House Sale Price Prediction using Linear Regression](https://github.com/Ikarthikmb/Machine-Learning-Notebook/blob/master/Project2.ipynb)[2019]
 
 **[Notebooks]**
 * [Beginner to Intermediate Programming in Python](https://github.com/Ikarthikmb/Python-Programming)
