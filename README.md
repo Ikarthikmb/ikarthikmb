@@ -61,7 +61,7 @@ Roadmap to the github's workspace
 
 * [Blinking internal LED of an Arduino UNO](https://github.com/Ikarthikmb/Hardware-Programming/tree/master/Arduino-repo#1-blinking-internal-led-of-an-arduino-uno)[2020]
 * [Home automation using NodeMCU](https://github.com/Ikarthikmb/Hardware-Programming/tree/master/Arduino-repo#getting-started-with-arduino)[2020]
-* [Making a Server Access Point with NodeMCU, commecting it to the Wi-Fi](https://github.com/Ikarthikmb/Hardware-Programming/tree/master/Arduino-repo#getting-started-with-arduino)
+* [Making a Server Access Point with NodeMCU, connecting it to the Wi-Fi](https://github.com/Ikarthikmb/Hardware-Programming/tree/master/Arduino-repo#getting-started-with-arduino)
 * [Creating a Server using NodeMCU](https://github.com/Ikarthikmb/Hardware-Programming/tree/master/Arduino-repo#getting-started-with-arduino)[2020]
 
 
