@@ -88,6 +88,7 @@ Roadmap to the github's workspace
 
 **[Hackathons]**
 
+* Ranked 5th out of 12 teams in the "IEEE HKN Founders Day Hackathon" [October 2024]
 * [NIELIT, IITM Verification Hackathon](https://github.com/vyomasystems-lab/challenges-Ikarthikmb) [August 2022]
     * A verification hackathon where participants are supposed to identify bugs in the given three design and report
       them. It also includes level-3 where a candidate has to submit his own opensource design, then verify it.
@@ -95,9 +96,12 @@ Roadmap to the github's workspace
 * [Circuit Design and Simulation Marathon using eSim](https://github.com/Ikarthikmb/wallace-tree?tab=readme-ov-file) [July 2021]
 	* Was awarded “outstanding” (top 10) in 600+ submissions 
 
-**[Workshops]**
+**[Workshops & Presentations]**
 
-* [Breathing Life Back into TI-83 Calculators Through Soldering](https://ikarthikmb.github.io/posts/2023/10/27/ti83-soldering-project-pnw-ieee.html) [October 2023]
+* Sand to Silicon: Build your custom ASIC’s, *Speaker* [February 6th, 2025]
+* [PCB Design of LED Chaser Circuit Using Kicad, *Instructor*](https://ikarthikmb.github.io/projects/2024/03/29/ieee-pcb-design-workshop-spring24.html) [March 29th, October 25th 2024]
+* [Breathing Life Back into TI-83 Calculators Through Soldering, *Participant*](https://ikarthikmb.github.io/posts/2023/10/27/ti83-soldering-project-pnw-ieee.html) [October 2023]
+* Programming in Python Internship, *Lab Support* [Spring 2019]
 
 
 
