@@ -31,6 +31,8 @@ Roadmap to the github's workspace
 
 **[RTL Design and Verification Projects]**
 
+* [ACORN 128 bit Authenticated Encryption and Decription](https://github.com/Ikarthikmb/ACORN128b2025/tree/state_in_top) [May 2025]
+* [16-bit Neuron Unit RTL Module with ReLU Activation Function](https://github.com/Ikarthikmb/rtl_designs/tree/main/9_neuron_unit) [November 2023]
 * [Verilog Design and Verification of AI-powered Solar Panel Monitor](https://github.com/Ikarthikmb/ai_solar_panel_monitor) [November 2023]
 * [Different methods to generate clock signal in verilog](https://github.com/Ikarthikmb/VerilogClocks) [August 2022]
 * [Python-based Verification of Asynchronous FIFO in Vyoma’s Up Tick Pro
@@ -88,7 +90,7 @@ Roadmap to the github's workspace
 
 **[Hackathons]**
 
-* Ranked 5th out of 12 teams in the "IEEE HKN Founders Day Hackathon" [October 2024]
+* Ranked 5th out of 12 teams in the "[IEEE HKN Founders Day Hackathon](https://hkn.ieee.org/news-and-announcements/2024/11/first-hkn-international-hackathon)" [October 2024]
 * [NIELIT, IITM Verification Hackathon](https://github.com/vyomasystems-lab/challenges-Ikarthikmb) [August 2022]
     * A verification hackathon where participants are supposed to identify bugs in the given three design and report
       them. It also includes level-3 where a candidate has to submit his own opensource design, then verify it.
