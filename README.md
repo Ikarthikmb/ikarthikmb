@@ -1,22 +1,7 @@
-![electron](https://raw.githubusercontent.com/Ikarthikmb/ikarthikmb/main/media/hello_awesome.gif)
-
 ## Hi there 👋 I am Karthik Mahendra
 
-<!--
-**Ikarthikmb/ikarthikmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning cell design with Magic
-- 👯 I’m looking to collaborate on open-source ASIC design projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![electron](https://raw.githubusercontent.com/Ikarthikmb/ikarthikmb/main/media/hello_awesome.gif)
+> **Architecting Silicon from the Ground Up.** My work spans the abstraction layers from high-level Verilog RTL to the physical layout of GDSII, utilizing the Google-Skywater 130nm PDK and Open-Source EDA ecosystems.
 
 Roadmap to the github's workspace
 
@@ -97,7 +82,7 @@ Roadmap to the github's workspace
 * Programming in Python Internship, *Lab Support* [Spring 2019]
 
 
-### 📬 Connect With Me
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-mb)
 [![Twitter](https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/qrthik)
@@ -105,17 +90,17 @@ Roadmap to the github's workspace
 [![HDLBits](https://img.shields.io/badge/HDLBits-Verilog_Skills-darkgreen?style=for-the-badge&logo=circuitpython&logoColor=white)](https://hdlbits.01xz.net/wiki/Special:VlgStats/94686AE808000EB)
 [![Website](https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ikarthikmb.github.io/)
 
-### 📊 Hardware & Software Mastery
+### Hardware & Software Mastery
 
-| Language Distribution | GitHub Profile Stats |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikarthikmb&layout=compact&theme=dracula&hide=css,html,jupyter&langs_count=6&border_radius=10" width="400" /> | <img src="https://github-readme-stats.vercel.app/api?username=Ikarthikmb&show_icons=true&theme=light&border_color=e0e0e0&hide_border=false" width="350" /> |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikarthikmb&layout=compact&theme=dracula&hide=css,html,jupyter&langs_count=6" width="400" alt="Language Distribution" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ikarthikmb&show_icons=true&theme=light&border_color=e0e0e0" width="350" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ikarthikmb&theme=light&border=e0e0e0&hide_border=false" width="450" />
 </p>
 
-<p align = "center">
   
   
   
