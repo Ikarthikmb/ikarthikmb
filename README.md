@@ -18,15 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align = "center">
-  
-  
-  <a href="https://github.com/Ikarthikmb/github-readme-streak-stats" title="Go to Source">
-<img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Ikarthikmb&theme=light&border=e0e0e0&hide_border=false" alt="Ikarthikmb" />
-</a>
-
-</p>
-
 Roadmap to the github's workspace
 
 **[RTL Design and Verification Projects]**
@@ -106,35 +97,25 @@ Roadmap to the github's workspace
 * Programming in Python Internship, *Lab Support* [Spring 2019]
 
 
+### 📬 Connect With Me
 
-</p>
-<h3 align="center">Find me on</h3>
-<p align="center"><a 
-href="https://github.com/Ikarthikmb" target="_blank"><img alt="Github" 
-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
-href="https://twitter.com/qrthik" target="_blank"><img alt="Twitter" 
-src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue" /></a> <a 
-href="https://www.linkedin.com/in/karthik-mb" target="_blank"><img alt="LinkedIn" 
-src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a
-href="https://hdlbits.01xz.net/wiki/Special:VlgStats/94686AE808000EB" target="_blank"><img alt="HDLBits" 
-src="https://hdlbits.01xz.net/images/logo270.png" width=90 height=30 /></a> <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-mb)
+[![Twitter](https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/qrthik)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@karthik-mahendra)
+[![HDLBits](https://img.shields.io/badge/HDLBits-Verilog_Skills-darkgreen?style=for-the-badge&logo=circuitpython&logoColor=white)](https://hdlbits.01xz.net/wiki/Special:VlgStats/94686AE808000EB)
+[![Website](https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ikarthikmb.github.io/)
 
- 
- <!--
- <a 
-href="https://medium.com/@karthik-mahendra" target="_blank"><img alt="Medium" 
-src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br>
-<a 
-href="https://stackoverflow.com/users/14122375/hamiltonpharmd" target="_blank"><img alt="StackOverflow" 
-src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a> 
+### 📊 Hardware & Software Mastery
+
+| Language Distribution | GitHub Profile Stats |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikarthikmb&layout=compact&theme=dracula&hide=css,html,jupyter&langs_count=6&border_radius=10" width="400" /> | <img src="https://github-readme-stats.vercel.app/api?username=Ikarthikmb&show_icons=true&theme=light&border_color=e0e0e0&hide_border=false" width="350" /> |
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ikarthikmb&theme=light&border=e0e0e0&hide_border=false" width="450" />
 </p>
--->
+
+<p align = "center">
   
-  <a href="https://github.com/Ikarthikmb/github-readme-stats">
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikarthikmb&hide=css,jupyter&title_color=fffff&text_color=054515&icon_color=61dafb&bg_color=ffffff&langs_count=8&layout=compact&border_color=9f9ea3&hide_border=false" />
-</a> <br>
   
-<a href="https://github.com/Ikarthikmb/github-readme-stats" title="Go to Source">
-<img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=Ikarthikmb&show_icons=true&theme=light&border_color=e0e0e0&hide_border=false" />
-</a>
-   </p>
+  
